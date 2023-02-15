@@ -1,4 +1,4 @@
-# RI-project
+# IR-project
 ## Project developed by Mateusz Małecki, Mateusz Zieleziński and Antoni Lasik during the Erasmus+ exchange at FCT NOVA School of Science and Technology within the course Information Retrieval
 In this project, we were deriving from the set of medical documents, patient cases that were our queries, and a set of pairs (document, query) with labeled relevance. 
 
